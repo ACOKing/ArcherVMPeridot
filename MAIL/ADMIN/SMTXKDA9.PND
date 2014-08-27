@@ -1,0 +1,13 @@
+# Pegasus Mail SMTP definition, 10 Aug 2014, 17:05:11
+
+Title : localhost
+Type : SMTP
+Flags1 : 0
+Flags2 : 0
+Timeout : 15
+Port : 25
+Host : localhost
+Username : 
+Mailbox : 
+SSLMode : 0
+Max_Msgs : 0

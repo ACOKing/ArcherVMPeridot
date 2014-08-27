@@ -1,0 +1,10 @@
+To: weldon23.henson23@gmail.com
+Subject: [Plogger] Your new gallery
+From: Plogger <noreply@localhost>
+
+You have successfully installed your new Plogger gallery.
+
+You can log in and manage it at http://localhost/plogger/plog-admin/
+
+Username: Weldon
+Password: WH102397

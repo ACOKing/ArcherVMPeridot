@@ -1,0 +1,5 @@
+To: weldon23.henson23@gmail.com
+Subject: Test message from Roundcube
+From: weldon23.henson23@gmail.com
+
+This is a test to confirm that Roundcube can send email.

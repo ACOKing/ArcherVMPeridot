@@ -9,5 +9,5 @@ How to setup ArcherVMPeridot:
 - [] Refreshing the Config System
 -  [] Run "setup_xampp.bat"
 -  [] Edit any ".conf" files in the apps folder
-- []3. Run "xampp_start.bat"
+- [] Run "xampp_start.bat"
 

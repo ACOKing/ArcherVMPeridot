@@ -1,0 +1,5 @@
+lib/parts.rb 580aecd2e565df2d847fff83e5bac9bc87c222d6
+lib/composite_io.rb c2c9dbdd734fcee7cce112d84940404286c2d10d
+lib/multipartable.rb eecf07e51538adb52792c3a58980fe6abb75f58f
+lib/multipart_post.rb 30ee672698d9b5dfed5dad4adb41dd4502d4a14e
+lib/net/http/post/multipart.rb cf58f1a4a715f3e6f1e79ed9a272a47ed6f0f572

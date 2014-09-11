@@ -1,0 +1,8 @@
+lib/builder.rb a6539156edb8b7ebdad21ffa5771a9c48655035b
+lib/blankslate.rb 9b0ec5cf785f2856230c2a0d609081f23cb40949
+lib/builder/xchar.rb 01fa18b107570622b487f6d3fbe98ff25d1b524a
+lib/builder/version.rb f2f6cfa89cd232d755f438258062fc6777d53c83
+lib/builder/xmlbase.rb fb79579305615e9ebea5528972bcf9a7c99a40ca
+lib/builder/xmlmarkup.rb ae7f3f606daf9105d4e3ccd8b5b5f68c8df76bbc
+lib/builder/xmlevents.rb 031f16d4d9404234fad9112f665f3273c94c6238
+lib/builder/blankslate.rb 6592886c222c0a2ae66e735e4a458b8a434b6ece

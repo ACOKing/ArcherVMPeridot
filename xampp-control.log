@@ -1,0 +1,1230 @@
+12:59:56 PM  [main] 	Initializing Control Panel
+12:59:56 PM  [main] 	Windows Version: Windows 7 Professional SP1 32-bit
+12:59:56 PM  [main] 	XAMPP Version: 1.8.2
+12:59:56 PM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+12:59:56 PM  [main] 	You are not running with administrator rights! This will work for
+12:59:56 PM  [main] 	most application stuff but whenever you do something with services
+12:59:56 PM  [main] 	there will be a security dialogue or things will break! So think 
+12:59:56 PM  [main] 	about running this application with administrator rights!
+12:59:56 PM  [main] 	XAMPP Installation Directory: "e:\xampp\"
+12:59:56 PM  [main] 	Checking for prerequisites
+12:59:56 PM  [main] 	All prerequisites found
+12:59:56 PM  [main] 	Initializing Modules
+12:59:56 PM  [Apache] 	XAMPP Apache is already running on port 80
+12:59:56 PM  [Apache] 	XAMPP Apache is already running on port 443
+12:59:56 PM  [mysql] 	XAMPP MySQL is already running on port 3306
+12:59:56 PM  [main] 	The FileZilla module is disabled
+12:59:56 PM  [main] 	The Mercury module is disabled
+12:59:56 PM  [main] 	The Tomcat module is disabled
+12:59:56 PM  [main] 	Starting Check-Timer
+12:59:56 PM  [main] 	Control Panel Ready
+1:00:25 PM  [mysql] 	Attempting to stop MySQL (PID: 1556)
+1:00:25 PM  [mysql] 	Status change detected: stopped
+1:00:26 PM  [Apache] 	Attempting to stop Apache (PID: 1520)
+1:00:26 PM  [Apache] 	Attempting to stop Apache (PID: 4920)
+1:00:26 PM  [Apache] 	Status change detected: stopped
+1:00:27 PM  [Apache] 	Attempting to start Apache app...
+1:00:27 PM  [Apache] 	Status change detected: running
+1:00:28 PM  [mysql] 	Attempting to start MySQL app...
+1:00:28 PM  [Apache] 	Status change detected: stopped
+1:00:28 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+1:00:28 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+1:00:28 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+1:00:28 PM  [Apache] 	Press the Logs button to view error logs and check
+1:00:28 PM  [Apache] 	the Windows Event Viewer for more clues
+1:00:28 PM  [Apache] 	If you need more help, copy and post this
+1:00:28 PM  [Apache] 	entire log window on the forums
+1:00:28 PM  [mysql] 	Status change detected: running
+1:00:29 PM  [mysql] 	Status change detected: stopped
+1:00:29 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+1:00:29 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+1:00:29 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+1:00:29 PM  [mysql] 	Press the Logs button to view error logs and check
+1:00:29 PM  [mysql] 	the Windows Event Viewer for more clues
+1:00:29 PM  [mysql] 	If you need more help, copy and post this
+1:00:29 PM  [mysql] 	entire log window on the forums
+1:01:12 PM  [Apache] 	Attempting to start Apache app...
+1:01:12 PM  [Apache] 	Status change detected: running
+1:01:12 PM  [mysql] 	Attempting to start MySQL app...
+1:01:12 PM  [mysql] 	Status change detected: running
+1:01:14 PM  [Apache] 	Status change detected: stopped
+1:01:14 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+1:01:14 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+1:01:14 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+1:01:14 PM  [Apache] 	Press the Logs button to view error logs and check
+1:01:14 PM  [Apache] 	the Windows Event Viewer for more clues
+1:01:14 PM  [Apache] 	If you need more help, copy and post this
+1:01:14 PM  [Apache] 	entire log window on the forums
+1:07:09 PM  [Apache] 	Attempting to start Apache app...
+1:07:09 PM  [Apache] 	Status change detected: running
+1:07:10 PM  [Apache] 	Status change detected: stopped
+1:07:10 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+1:07:10 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+1:07:10 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+1:07:10 PM  [Apache] 	Press the Logs button to view error logs and check
+1:07:10 PM  [Apache] 	the Windows Event Viewer for more clues
+1:07:10 PM  [Apache] 	If you need more help, copy and post this
+1:07:10 PM  [Apache] 	entire log window on the forums
+1:07:46 PM  [Apache] 	Attempting to start Apache app...
+1:07:47 PM  [Apache] 	Status change detected: running
+1:08:07 PM  [Apache] 	Status change detected: stopped
+1:08:07 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+1:08:07 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+1:08:07 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+1:08:07 PM  [Apache] 	Press the Logs button to view error logs and check
+1:08:07 PM  [Apache] 	the Windows Event Viewer for more clues
+1:08:07 PM  [Apache] 	If you need more help, copy and post this
+1:08:07 PM  [Apache] 	entire log window on the forums
+1:08:09 PM  [mysql] 	Status change detected: stopped
+1:08:09 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+1:08:09 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+1:08:09 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+1:08:09 PM  [mysql] 	Press the Logs button to view error logs and check
+1:08:09 PM  [mysql] 	the Windows Event Viewer for more clues
+1:08:09 PM  [mysql] 	If you need more help, copy and post this
+1:08:09 PM  [mysql] 	entire log window on the forums
+1:08:13 PM  [main] 	Deinitializing Modules
+1:08:13 PM  [main] 	Deinitializing Control Panel
+
+5:16:22 PM  [main] 	Initializing Control Panel
+5:16:22 PM  [main] 	Windows Version: Windows 7 Professional SP1 32-bit
+5:16:22 PM  [main] 	XAMPP Version: 1.8.2
+5:16:22 PM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+5:16:22 PM  [main] 	You are not running with administrator rights! This will work for
+5:16:22 PM  [main] 	most application stuff but whenever you do something with services
+5:16:22 PM  [main] 	there will be a security dialogue or things will break! So think 
+5:16:22 PM  [main] 	about running this application with administrator rights!
+5:16:22 PM  [main] 	XAMPP Installation Directory: "k:\xampp\"
+5:16:22 PM  [main] 	Checking for prerequisites
+5:16:48 PM  [main] 	All prerequisites found
+5:16:48 PM  [main] 	Initializing Modules
+5:16:48 PM  [main] 	The FileZilla module is disabled
+5:16:48 PM  [main] 	The Mercury module is disabled
+5:16:48 PM  [main] 	The Tomcat module is disabled
+5:16:48 PM  [main] 	Starting Check-Timer
+5:16:48 PM  [main] 	Control Panel Ready
+5:19:39 PM  [Apache] 	Attempting to start Apache app...
+5:19:41 PM  [mysql] 	Attempting to start MySQL app...
+5:19:49 PM  [Apache] 	Status change detected: running
+5:19:49 PM  [mysql] 	Status change detected: running
+5:20:59 PM  [Apache] 	Status change detected: stopped
+5:20:59 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+5:20:59 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+5:20:59 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+5:20:59 PM  [Apache] 	Press the Logs button to view error logs and check
+5:20:59 PM  [Apache] 	the Windows Event Viewer for more clues
+5:20:59 PM  [Apache] 	If you need more help, copy and post this
+5:20:59 PM  [Apache] 	entire log window on the forums
+5:22:35 PM  [Apache] 	Attempting to start Apache app...
+5:22:35 PM  [Apache] 	Status change detected: running
+5:22:52 PM  [Apache] 	Status change detected: stopped
+5:22:52 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+5:22:52 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+5:22:52 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+5:22:52 PM  [Apache] 	Press the Logs button to view error logs and check
+5:22:52 PM  [Apache] 	the Windows Event Viewer for more clues
+5:22:52 PM  [Apache] 	If you need more help, copy and post this
+5:22:52 PM  [Apache] 	entire log window on the forums
+5:23:06 PM  [Apache] 	Attempting to start Apache app...
+5:23:06 PM  [Apache] 	Status change detected: running
+5:23:17 PM  [Apache] 	Status change detected: stopped
+5:23:17 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+5:23:17 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+5:23:18 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+5:23:18 PM  [Apache] 	Press the Logs button to view error logs and check
+5:23:18 PM  [Apache] 	the Windows Event Viewer for more clues
+5:23:18 PM  [Apache] 	If you need more help, copy and post this
+5:23:18 PM  [Apache] 	entire log window on the forums
+5:29:05 PM  [Apache] 	Attempting to start Apache app...
+5:29:05 PM  [Apache] 	Status change detected: running
+5:29:16 PM  [Apache] 	Status change detected: stopped
+5:29:16 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+5:29:16 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+5:29:16 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+5:29:16 PM  [Apache] 	Press the Logs button to view error logs and check
+5:29:16 PM  [Apache] 	the Windows Event Viewer for more clues
+5:29:16 PM  [Apache] 	If you need more help, copy and post this
+5:29:16 PM  [Apache] 	entire log window on the forums
+5:36:06 PM  [Apache] 	Attempting to start Apache app...
+5:36:07 PM  [Apache] 	Status change detected: running
+5:36:14 PM  [Apache] 	Status change detected: stopped
+5:36:14 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+5:36:14 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+5:36:14 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+5:36:14 PM  [Apache] 	Press the Logs button to view error logs and check
+5:36:14 PM  [Apache] 	the Windows Event Viewer for more clues
+5:36:14 PM  [Apache] 	If you need more help, copy and post this
+5:36:14 PM  [Apache] 	entire log window on the forums
+5:38:43 PM  [Apache] 	Attempting to start Apache app...
+5:38:44 PM  [Apache] 	Status change detected: running
+5:38:52 PM  [Apache] 	Status change detected: stopped
+5:38:52 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+5:38:52 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+5:38:52 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+5:38:52 PM  [Apache] 	Press the Logs button to view error logs and check
+5:38:52 PM  [Apache] 	the Windows Event Viewer for more clues
+5:38:52 PM  [Apache] 	If you need more help, copy and post this
+5:38:52 PM  [Apache] 	entire log window on the forums
+5:39:43 PM  [Apache] 	Attempting to start Apache app...
+5:39:43 PM  [Apache] 	Status change detected: running
+5:39:49 PM  [Apache] 	Status change detected: stopped
+5:39:49 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+5:39:49 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+5:39:50 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+5:39:50 PM  [Apache] 	Press the Logs button to view error logs and check
+5:39:50 PM  [Apache] 	the Windows Event Viewer for more clues
+5:39:50 PM  [Apache] 	If you need more help, copy and post this
+5:39:50 PM  [Apache] 	entire log window on the forums
+5:50:50 PM  [Apache] 	Attempting to start Apache app...
+5:50:51 PM  [Apache] 	Status change detected: running
+5:50:57 PM  [Apache] 	Status change detected: stopped
+5:50:57 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+5:50:57 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+5:50:57 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+5:50:57 PM  [Apache] 	Press the Logs button to view error logs and check
+5:50:57 PM  [Apache] 	the Windows Event Viewer for more clues
+5:50:57 PM  [Apache] 	If you need more help, copy and post this
+5:50:57 PM  [Apache] 	entire log window on the forums
+5:54:05 PM  [Apache] 	Attempting to start Apache app...
+5:54:05 PM  [Apache] 	Status change detected: running
+5:54:15 PM  [Apache] 	Status change detected: stopped
+5:54:15 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+5:54:15 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+5:54:15 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+5:54:15 PM  [Apache] 	Press the Logs button to view error logs and check
+5:54:15 PM  [Apache] 	the Windows Event Viewer for more clues
+5:54:15 PM  [Apache] 	If you need more help, copy and post this
+5:54:15 PM  [Apache] 	entire log window on the forums
+5:54:49 PM  [Apache] 	Attempting to start Apache app...
+5:54:49 PM  [Apache] 	Status change detected: running
+5:54:58 PM  [Apache] 	Status change detected: stopped
+5:54:58 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+5:54:58 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+5:54:58 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+5:54:58 PM  [Apache] 	Press the Logs button to view error logs and check
+5:54:58 PM  [Apache] 	the Windows Event Viewer for more clues
+5:54:58 PM  [Apache] 	If you need more help, copy and post this
+5:54:58 PM  [Apache] 	entire log window on the forums
+6:00:14 PM  [Apache] 	Attempting to start Apache app...
+6:00:14 PM  [Apache] 	Status change detected: running
+6:00:18 PM  [Apache] 	Status change detected: stopped
+6:00:18 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+6:00:18 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+6:00:18 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+6:00:18 PM  [Apache] 	Press the Logs button to view error logs and check
+6:00:18 PM  [Apache] 	the Windows Event Viewer for more clues
+6:00:18 PM  [Apache] 	If you need more help, copy and post this
+6:00:18 PM  [Apache] 	entire log window on the forums
+6:00:47 PM  [Apache] 	Attempting to start Apache app...
+6:00:47 PM  [Apache] 	Status change detected: running
+6:00:51 PM  [Apache] 	Status change detected: stopped
+6:00:51 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+6:00:51 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+6:00:51 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+6:00:51 PM  [Apache] 	Press the Logs button to view error logs and check
+6:00:51 PM  [Apache] 	the Windows Event Viewer for more clues
+6:00:51 PM  [Apache] 	If you need more help, copy and post this
+6:00:51 PM  [Apache] 	entire log window on the forums
+6:01:21 PM  [Apache] 	Attempting to start Apache app...
+6:01:22 PM  [Apache] 	Status change detected: running
+6:01:26 PM  [Apache] 	Status change detected: stopped
+6:01:26 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+6:01:26 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+6:01:26 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+6:01:26 PM  [Apache] 	Press the Logs button to view error logs and check
+6:01:26 PM  [Apache] 	the Windows Event Viewer for more clues
+6:01:26 PM  [Apache] 	If you need more help, copy and post this
+6:01:26 PM  [Apache] 	entire log window on the forums
+6:01:28 PM  [Apache] 	Attempting to start Apache app...
+6:01:29 PM  [Apache] 	Status change detected: running
+6:01:32 PM  [Apache] 	Status change detected: stopped
+6:01:32 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+6:01:32 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+6:01:32 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+6:01:32 PM  [Apache] 	Press the Logs button to view error logs and check
+6:01:32 PM  [Apache] 	the Windows Event Viewer for more clues
+6:01:32 PM  [Apache] 	If you need more help, copy and post this
+6:01:32 PM  [Apache] 	entire log window on the forums
+6:02:30 PM  [mysql] 	Attempting to stop MySQL (PID: 4436)
+6:02:30 PM  [mysql] 	Status change detected: stopped
+6:02:31 PM  [Apache] 	Attempting to start Apache app...
+6:02:32 PM  [Apache] 	Status change detected: running
+6:02:32 PM  [mysql] 	Attempting to start MySQL app...
+6:02:32 PM  [mysql] 	Status change detected: running
+6:02:36 PM  [Apache] 	Status change detected: stopped
+6:02:36 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+6:02:36 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+6:02:36 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+6:02:36 PM  [Apache] 	Press the Logs button to view error logs and check
+6:02:36 PM  [Apache] 	the Windows Event Viewer for more clues
+6:02:36 PM  [Apache] 	If you need more help, copy and post this
+6:02:36 PM  [Apache] 	entire log window on the forums
+6:04:19 PM  [Apache] 	Attempting to start Apache app...
+6:04:20 PM  [Apache] 	Status change detected: running
+6:04:24 PM  [Apache] 	Status change detected: stopped
+6:04:24 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+6:04:24 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+6:04:24 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+6:04:24 PM  [Apache] 	Press the Logs button to view error logs and check
+6:04:24 PM  [Apache] 	the Windows Event Viewer for more clues
+6:04:24 PM  [Apache] 	If you need more help, copy and post this
+6:04:24 PM  [Apache] 	entire log window on the forums
+6:05:09 PM  [Apache] 	Attempting to start Apache app...
+6:05:09 PM  [Apache] 	Status change detected: running
+6:05:13 PM  [Apache] 	Status change detected: stopped
+6:05:13 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+6:05:13 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+6:05:13 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+6:05:13 PM  [Apache] 	Press the Logs button to view error logs and check
+6:05:13 PM  [Apache] 	the Windows Event Viewer for more clues
+6:05:13 PM  [Apache] 	If you need more help, copy and post this
+6:05:13 PM  [Apache] 	entire log window on the forums
+6:06:01 PM  [Apache] 	Attempting to start Apache app...
+6:06:02 PM  [Apache] 	Status change detected: running
+6:06:05 PM  [Apache] 	Status change detected: stopped
+6:06:05 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+6:06:05 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+6:06:05 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+6:06:05 PM  [Apache] 	Press the Logs button to view error logs and check
+6:06:05 PM  [Apache] 	the Windows Event Viewer for more clues
+6:06:05 PM  [Apache] 	If you need more help, copy and post this
+6:06:05 PM  [Apache] 	entire log window on the forums
+6:07:25 PM  [Apache] 	Attempting to start Apache app...
+6:07:25 PM  [Apache] 	Status change detected: running
+6:07:29 PM  [Apache] 	Status change detected: stopped
+6:07:29 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+6:07:29 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+6:07:29 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+6:07:29 PM  [Apache] 	Press the Logs button to view error logs and check
+6:07:29 PM  [Apache] 	the Windows Event Viewer for more clues
+6:07:29 PM  [Apache] 	If you need more help, copy and post this
+6:07:29 PM  [Apache] 	entire log window on the forums
+6:08:36 PM  [Apache] 	Attempting to start Apache app...
+6:08:36 PM  [Apache] 	Status change detected: running
+6:08:40 PM  [Apache] 	Status change detected: stopped
+6:08:40 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+6:08:40 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+6:08:40 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+6:08:40 PM  [Apache] 	Press the Logs button to view error logs and check
+6:08:40 PM  [Apache] 	the Windows Event Viewer for more clues
+6:08:40 PM  [Apache] 	If you need more help, copy and post this
+6:08:40 PM  [Apache] 	entire log window on the forums
+6:10:18 PM  [Apache] 	Attempting to start Apache app...
+6:10:19 PM  [Apache] 	Status change detected: running
+6:10:23 PM  [Apache] 	Status change detected: stopped
+6:10:23 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+6:10:23 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+6:10:23 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+6:10:23 PM  [Apache] 	Press the Logs button to view error logs and check
+6:10:23 PM  [Apache] 	the Windows Event Viewer for more clues
+6:10:23 PM  [Apache] 	If you need more help, copy and post this
+6:10:23 PM  [Apache] 	entire log window on the forums
+6:11:15 PM  [Apache] 	Attempting to start Apache app...
+6:11:16 PM  [Apache] 	Status change detected: running
+6:11:19 PM  [Apache] 	Status change detected: stopped
+6:11:19 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+6:11:19 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+6:11:19 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+6:11:19 PM  [Apache] 	Press the Logs button to view error logs and check
+6:11:19 PM  [Apache] 	the Windows Event Viewer for more clues
+6:11:19 PM  [Apache] 	If you need more help, copy and post this
+6:11:19 PM  [Apache] 	entire log window on the forums
+6:12:31 PM  [Apache] 	Attempting to start Apache app...
+6:12:31 PM  [Apache] 	Status change detected: running
+6:12:35 PM  [Apache] 	Status change detected: stopped
+6:12:35 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+6:12:35 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+6:12:35 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+6:12:35 PM  [Apache] 	Press the Logs button to view error logs and check
+6:12:35 PM  [Apache] 	the Windows Event Viewer for more clues
+6:12:35 PM  [Apache] 	If you need more help, copy and post this
+6:12:35 PM  [Apache] 	entire log window on the forums
+6:13:41 PM  [main] 	Deinitializing Modules
+6:13:41 PM  [main] 	Deinitializing Control Panel
+
+7:09:23 PM  [main] 	Initializing Control Panel
+7:09:24 PM  [main] 	Windows Version: Windows 7 Professional SP1 32-bit
+7:09:26 PM  [main] 	XAMPP Version: 1.8.2
+7:09:26 PM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+7:09:26 PM  [main] 	You are not running with administrator rights! This will work for
+7:09:26 PM  [main] 	most application stuff but whenever you do something with services
+7:09:26 PM  [main] 	there will be a security dialogue or things will break! So think 
+7:09:26 PM  [main] 	about running this application with administrator rights!
+7:09:26 PM  [main] 	XAMPP Installation Directory: "k:\xampp\"
+7:09:26 PM  [main] 	Checking for prerequisites
+7:14:10 PM  [main] 	All prerequisites found
+7:14:10 PM  [main] 	Initializing Modules
+7:14:12 PM  [main] 	The FileZilla module is disabled
+7:14:12 PM  [main] 	The Mercury module is disabled
+7:14:12 PM  [main] 	The Tomcat module is disabled
+7:14:12 PM  [main] 	Starting Check-Timer
+7:14:12 PM  [main] 	Control Panel Ready
+7:21:38 PM  [Apache] 	Attempting to start Apache app...
+7:21:58 PM  [mysql] 	Attempting to start MySQL app...
+7:22:29 PM  [Apache] 	Status change detected: running
+7:22:29 PM  [mysql] 	Status change detected: running
+7:56:32 PM  [Apache] 	Attempting to stop Apache (PID: 3856)
+7:56:33 PM  [Apache] 	Attempting to stop Apache (PID: 5000)
+7:56:39 PM  [mysql] 	Attempting to stop MySQL (PID: 2088)
+7:56:46 PM  [Apache] 	Status change detected: stopped
+7:56:48 PM  [mysql] 	Status change detected: stopped
+7:56:50 PM  [Apache] 	Attempting to start Apache app...
+7:56:51 PM  [Apache] 	Status change detected: running
+7:56:52 PM  [mysql] 	Attempting to start MySQL app...
+7:56:52 PM  [mysql] 	Status change detected: running
+9:28:29 PM  [Apache] 	Attempting to stop Apache (PID: 6244)
+9:28:31 PM  [Apache] 	Attempting to stop Apache (PID: 5684)
+9:28:46 PM  [mysql] 	Attempting to stop MySQL (PID: 7072)
+9:28:51 PM  [mysql] 	Status change detected: stopped
+9:28:58 PM  [Apache] 	Status change detected: stopped
+3:59:54 AM  [main] 	Deinitializing Modules
+3:59:54 AM  [main] 	Deinitializing Control Panel
+
+7:13:23 AM  [main] 	Initializing Control Panel
+7:13:23 AM  [main] 	Windows Version: Windows 7 Professional SP1 32-bit
+7:13:23 AM  [main] 	XAMPP Version: 1.8.2
+7:13:23 AM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+7:13:23 AM  [main] 	You are not running with administrator rights! This will work for
+7:13:23 AM  [main] 	most application stuff but whenever you do something with services
+7:13:23 AM  [main] 	there will be a security dialogue or things will break! So think 
+7:13:23 AM  [main] 	about running this application with administrator rights!
+7:13:23 AM  [main] 	XAMPP Installation Directory: "k:\xampp\"
+7:13:23 AM  [main] 	Checking for prerequisites
+7:13:26 AM  [main] 	All prerequisites found
+7:13:26 AM  [main] 	Initializing Modules
+7:13:26 AM  [main] 	The FileZilla module is disabled
+7:13:26 AM  [main] 	The Mercury module is disabled
+7:13:26 AM  [main] 	The Tomcat module is disabled
+7:13:26 AM  [main] 	Starting Check-Timer
+7:13:26 AM  [main] 	Control Panel Ready
+7:13:29 AM  [mysql] 	Attempting to start MySQL app...
+7:13:30 AM  [mysql] 	Status change detected: running
+7:13:30 AM  [Apache] 	Attempting to start Apache app...
+7:13:30 AM  [Apache] 	Status change detected: running
+8:14:35 AM  [Apache] 	Attempting to stop Apache (PID: 5260)
+8:14:36 AM  [Apache] 	Attempting to stop Apache (PID: 5624)
+8:14:41 AM  [mysql] 	Attempting to stop MySQL (PID: 5236)
+8:14:41 AM  [Apache] 	Status change detected: stopped
+8:14:43 AM  [mysql] 	Status change detected: stopped
+8:15:36 AM  [main] 	Deinitializing Modules
+8:15:36 AM  [main] 	Deinitializing Control Panel
+
+7:10:39 PM  [main] 	Initializing Control Panel
+7:10:40 PM  [main] 	Windows Version: Windows 7 Professional SP1 32-bit
+7:10:41 PM  [main] 	XAMPP Version: 1.8.2
+7:10:41 PM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+7:10:42 PM  [main] 	You are not running with administrator rights! This will work for
+7:10:42 PM  [main] 	most application stuff but whenever you do something with services
+7:10:42 PM  [main] 	there will be a security dialogue or things will break! So think 
+7:10:42 PM  [main] 	about running this application with administrator rights!
+7:10:42 PM  [main] 	XAMPP Installation Directory: "k:\xampp\"
+7:10:42 PM  [main] 	Checking for prerequisites
+7:15:29 PM  [main] 	All prerequisites found
+7:15:29 PM  [main] 	Initializing Modules
+7:15:33 PM  [main] 	The FileZilla module is disabled
+7:15:33 PM  [main] 	The Mercury module is disabled
+7:15:33 PM  [main] 	The Tomcat module is disabled
+7:15:33 PM  [main] 	Starting Check-Timer
+7:15:33 PM  [main] 	Control Panel Ready
+7:21:33 PM  [Apache] 	Attempting to start Apache app...
+7:21:40 PM  [mysql] 	Attempting to start MySQL app...
+7:21:51 PM  [Apache] 	Status change detected: running
+7:21:51 PM  [mysql] 	Status change detected: running
+10:27:49 PM  [mysql] 	Attempting to stop MySQL (PID: 5988)
+10:27:51 PM  [Apache] 	Attempting to stop Apache (PID: 2876)
+10:27:52 PM  [Apache] 	Attempting to stop Apache (PID: 3668)
+10:28:09 PM  [mysql] 	Status change detected: stopped
+10:28:15 PM  [Apache] 	Status change detected: stopped
+11:00:01 AM  [main] 	Deinitializing Modules
+11:00:01 AM  [main] 	Deinitializing Control Panel
+
+12:57:17 PM  [main] 	Initializing Control Panel
+12:57:17 PM  [main] 	Windows Version: Windows 7 Professional SP1 32-bit
+12:57:18 PM  [main] 	XAMPP Version: 1.8.2
+12:57:18 PM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+12:57:18 PM  [main] 	You are not running with administrator rights! This will work for
+12:57:18 PM  [main] 	most application stuff but whenever you do something with services
+12:57:18 PM  [main] 	there will be a security dialogue or things will break! So think 
+12:57:18 PM  [main] 	about running this application with administrator rights!
+12:57:18 PM  [main] 	XAMPP Installation Directory: "k:\xampp\"
+12:57:18 PM  [main] 	Checking for prerequisites
+1:01:59 PM  [main] 	All prerequisites found
+1:01:59 PM  [main] 	Initializing Modules
+1:02:00 PM  [main] 	The FileZilla module is disabled
+1:02:00 PM  [main] 	The Mercury module is disabled
+1:02:00 PM  [main] 	The Tomcat module is disabled
+1:02:00 PM  [main] 	Starting Check-Timer
+1:02:00 PM  [main] 	Control Panel Ready
+1:02:25 PM  [Apache] 	Attempting to start Apache app...
+1:02:25 PM  [mysql] 	Attempting to start MySQL app...
+1:02:31 PM  [Apache] 	Status change detected: running
+1:02:31 PM  [mysql] 	Status change detected: running
+1:04:30 PM  [Apache] 	Status change detected: stopped
+1:04:30 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+1:04:30 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+1:04:30 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+1:04:30 PM  [Apache] 	Press the Logs button to view error logs and check
+1:04:30 PM  [Apache] 	the Windows Event Viewer for more clues
+1:04:30 PM  [Apache] 	If you need more help, copy and post this
+1:04:30 PM  [Apache] 	entire log window on the forums
+1:08:27 PM  [Apache] 	Attempting to start Apache app...
+1:08:28 PM  [Apache] 	Status change detected: running
+1:08:49 PM  [Apache] 	Status change detected: stopped
+1:08:49 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+1:08:49 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+1:08:49 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+1:08:49 PM  [Apache] 	Press the Logs button to view error logs and check
+1:08:49 PM  [Apache] 	the Windows Event Viewer for more clues
+1:08:49 PM  [Apache] 	If you need more help, copy and post this
+1:08:49 PM  [Apache] 	entire log window on the forums
+1:10:53 PM  [Apache] 	Attempting to start Apache app...
+1:10:54 PM  [Apache] 	Status change detected: running
+1:11:40 PM  [Apache] 	Status change detected: stopped
+1:11:40 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+1:11:40 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+1:11:40 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+1:11:40 PM  [Apache] 	Press the Logs button to view error logs and check
+1:11:40 PM  [Apache] 	the Windows Event Viewer for more clues
+1:11:40 PM  [Apache] 	If you need more help, copy and post this
+1:11:40 PM  [Apache] 	entire log window on the forums
+1:16:13 PM  [Apache] 	Attempting to start Apache app...
+1:16:13 PM  [Apache] 	Status change detected: running
+1:16:30 PM  [Apache] 	Status change detected: stopped
+1:16:30 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+1:16:30 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+1:16:30 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+1:16:30 PM  [Apache] 	Press the Logs button to view error logs and check
+1:16:30 PM  [Apache] 	the Windows Event Viewer for more clues
+1:16:30 PM  [Apache] 	If you need more help, copy and post this
+1:16:30 PM  [Apache] 	entire log window on the forums
+1:20:17 PM  [Apache] 	Attempting to start Apache app...
+1:20:17 PM  [Apache] 	Status change detected: running
+1:20:31 PM  [Apache] 	Status change detected: stopped
+1:20:31 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+1:20:31 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+1:20:31 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+1:20:31 PM  [Apache] 	Press the Logs button to view error logs and check
+1:20:32 PM  [Apache] 	the Windows Event Viewer for more clues
+1:20:32 PM  [Apache] 	If you need more help, copy and post this
+1:20:32 PM  [Apache] 	entire log window on the forums
+1:23:57 PM  [Apache] 	Attempting to start Apache app...
+1:23:57 PM  [Apache] 	Status change detected: running
+6:43:11 PM  [Apache] 	Attempting to stop Apache (PID: 3096)
+6:43:12 PM  [Apache] 	Attempting to stop Apache (PID: 1784)
+6:43:46 PM  [Apache] 	Status change detected: stopped
+7:53:29 PM  [Apache] 	Attempting to start Apache app...
+7:55:18 PM  [Apache] 	Status change detected: running
+8:09:27 PM  [Apache] 	Attempting to stop Apache (PID: 6716)
+8:09:30 PM  [Apache] 	Attempting to stop Apache (PID: 6632)
+8:09:38 PM  [Apache] 	Status change detected: stopped
+8:38:23 PM  [main] 	Deinitializing Modules
+8:38:23 PM  [main] 	Deinitializing Control Panel
+
+8:38:38 PM  [main] 	Initializing Control Panel
+8:38:38 PM  [main] 	Windows Version: Windows XP SP3 32-bit
+8:38:38 PM  [main] 	XAMPP Version: 1.8.2
+8:38:38 PM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+8:38:38 PM  [main] 	Running with Administrator rights - good!
+8:38:38 PM  [main] 	XAMPP Installation Directory: "e:\xampp\"
+8:38:38 PM  [main] 	Checking for prerequisites
+8:38:38 PM  [main] 	All prerequisites found
+8:38:38 PM  [main] 	Initializing Modules
+8:38:38 PM  [main] 	The FileZilla module is disabled
+8:38:38 PM  [main] 	The Mercury module is disabled
+8:38:38 PM  [main] 	The Tomcat module is disabled
+8:38:38 PM  [main] 	Starting Check-Timer
+8:38:38 PM  [main] 	Control Panel Ready
+8:41:12 PM  [Apache] 	Attempting to start Apache app...
+8:41:47 PM  [Apache] 	Status change detected: running
+8:42:59 PM  [mysql] 	Attempting to start MySQL app...
+8:43:46 PM  [mysql] 	Status change detected: running
+8:44:32 PM  [mysql] 	Status change detected: stopped
+8:44:33 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+8:44:33 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+8:44:33 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+8:44:33 PM  [mysql] 	Press the Logs button to view error logs and check
+8:44:33 PM  [mysql] 	the Windows Event Viewer for more clues
+8:44:33 PM  [mysql] 	If you need more help, copy and post this
+8:44:33 PM  [mysql] 	entire log window on the forums
+8:45:06 PM  [mysql] 	Attempting to start MySQL app...
+8:45:07 PM  [mysql] 	Status change detected: running
+8:45:38 PM  [Apache] 	Status change detected: stopped
+8:45:38 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+8:45:38 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+8:45:38 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+8:45:38 PM  [Apache] 	Press the Logs button to view error logs and check
+8:45:38 PM  [Apache] 	the Windows Event Viewer for more clues
+8:45:38 PM  [Apache] 	If you need more help, copy and post this
+8:45:38 PM  [Apache] 	entire log window on the forums
+8:45:38 PM  [mysql] 	Status change detected: stopped
+8:45:38 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+8:45:38 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+8:45:38 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+8:45:38 PM  [mysql] 	Press the Logs button to view error logs and check
+8:45:38 PM  [mysql] 	the Windows Event Viewer for more clues
+8:45:38 PM  [mysql] 	If you need more help, copy and post this
+8:45:38 PM  [mysql] 	entire log window on the forums
+8:45:39 PM  [Apache] 	Status change detected: running
+8:45:39 PM  [mysql] 	Status change detected: running
+8:45:48 PM  [Apache] 	Status change detected: stopped
+8:45:48 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+8:45:48 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+8:45:48 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+8:45:48 PM  [Apache] 	Press the Logs button to view error logs and check
+8:45:48 PM  [Apache] 	the Windows Event Viewer for more clues
+8:45:48 PM  [Apache] 	If you need more help, copy and post this
+8:45:48 PM  [Apache] 	entire log window on the forums
+8:45:48 PM  [mysql] 	Status change detected: stopped
+8:45:48 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+8:45:48 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+8:45:48 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+8:45:48 PM  [mysql] 	Press the Logs button to view error logs and check
+8:45:48 PM  [mysql] 	the Windows Event Viewer for more clues
+8:45:48 PM  [mysql] 	If you need more help, copy and post this
+8:45:48 PM  [mysql] 	entire log window on the forums
+8:45:50 PM  [Apache] 	Status change detected: running
+8:45:50 PM  [mysql] 	Status change detected: running
+8:45:55 PM  [Apache] 	Status change detected: stopped
+8:45:55 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+8:45:55 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+8:45:55 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+8:45:55 PM  [Apache] 	Press the Logs button to view error logs and check
+8:45:55 PM  [Apache] 	the Windows Event Viewer for more clues
+8:45:55 PM  [Apache] 	If you need more help, copy and post this
+8:45:55 PM  [Apache] 	entire log window on the forums
+8:47:41 PM  [Apache] 	Attempting to start Apache app...
+8:47:41 PM  [Apache] 	Status change detected: running
+8:50:07 PM  [mysql] 	Status change detected: stopped
+8:50:08 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+8:50:08 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+8:50:08 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+8:50:08 PM  [mysql] 	Press the Logs button to view error logs and check
+8:50:08 PM  [mysql] 	the Windows Event Viewer for more clues
+8:50:08 PM  [mysql] 	If you need more help, copy and post this
+8:50:08 PM  [mysql] 	entire log window on the forums
+9:07:13 PM  [Apache] 	Status change detected: stopped
+9:07:14 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+9:07:14 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+9:07:14 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+9:07:14 PM  [Apache] 	Press the Logs button to view error logs and check
+9:07:14 PM  [Apache] 	the Windows Event Viewer for more clues
+9:07:14 PM  [Apache] 	If you need more help, copy and post this
+9:07:14 PM  [Apache] 	entire log window on the forums
+9:07:15 PM  [Apache] 	Status change detected: running
+9:13:38 PM  [Apache] 	Status change detected: stopped
+9:13:39 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+9:13:39 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+9:13:39 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+9:13:39 PM  [Apache] 	Press the Logs button to view error logs and check
+9:13:39 PM  [Apache] 	the Windows Event Viewer for more clues
+9:13:39 PM  [Apache] 	If you need more help, copy and post this
+9:13:39 PM  [Apache] 	entire log window on the forums
+9:13:39 PM  [Apache] 	Status change detected: running
+9:13:40 PM  [Apache] 	Status change detected: stopped
+9:13:40 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+9:13:40 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+9:13:40 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+9:13:40 PM  [Apache] 	Press the Logs button to view error logs and check
+9:13:40 PM  [Apache] 	the Windows Event Viewer for more clues
+9:13:40 PM  [Apache] 	If you need more help, copy and post this
+9:13:40 PM  [Apache] 	entire log window on the forums
+9:13:43 PM  [Apache] 	Status change detected: running
+9:13:43 PM  [Apache] 	Status change detected: stopped
+9:13:43 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+9:13:43 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+9:13:43 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+9:13:43 PM  [Apache] 	Press the Logs button to view error logs and check
+9:13:43 PM  [Apache] 	the Windows Event Viewer for more clues
+9:13:43 PM  [Apache] 	If you need more help, copy and post this
+9:13:43 PM  [Apache] 	entire log window on the forums
+9:13:44 PM  [Apache] 	Status change detected: running
+9:15:26 PM  [Apache] 	Attempting to stop Apache (PID: 3736)
+9:15:26 PM  [Apache] 	Attempting to stop Apache (PID: 5160)
+9:15:33 PM  [Apache] 	Status change detected: stopped
+9:18:56 PM  [main] 	Deinitializing Modules
+9:18:57 PM  [main] 	Deinitializing Control Panel
+
+8:56:28 AM  [main] 	Initializing Control Panel
+8:56:28 AM  [main] 	Windows Version: Windows 7 Professional SP1 32-bit
+8:56:28 AM  [main] 	XAMPP Version: 1.8.2
+8:56:28 AM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+8:56:28 AM  [main] 	You are not running with administrator rights! This will work for
+8:56:29 AM  [main] 	most application stuff but whenever you do something with services
+8:56:29 AM  [main] 	there will be a security dialogue or things will break! So think 
+8:56:29 AM  [main] 	about running this application with administrator rights!
+8:56:29 AM  [main] 	XAMPP Installation Directory: "e:\xampp\"
+8:56:29 AM  [main] 	Checking for prerequisites
+8:56:29 AM  [main] 	All prerequisites found
+8:56:29 AM  [main] 	Initializing Modules
+8:56:29 AM  [main] 	The FileZilla module is disabled
+8:56:29 AM  [main] 	The Mercury module is disabled
+8:56:29 AM  [main] 	The Tomcat module is disabled
+8:56:29 AM  [main] 	Starting Check-Timer
+8:56:29 AM  [main] 	Control Panel Ready
+8:56:30 AM  [Apache] 	Attempting to start Apache app...
+8:56:31 AM  [mysql] 	Attempting to start MySQL app...
+8:56:32 AM  [Apache] 	Status change detected: running
+8:56:32 AM  [mysql] 	Status change detected: running
+9:08:59 AM  [Apache] 	Attempting to stop Apache (PID: 7000)
+9:08:59 AM  [Apache] 	Attempting to stop Apache (PID: 6784)
+9:08:59 AM  [Apache] 	Status change detected: stopped
+9:09:00 AM  [Apache] 	Attempting to start Apache app...
+9:09:00 AM  [Apache] 	Status change detected: running
+9:09:13 AM  [Apache] 	Attempting to stop Apache (PID: 7396)
+9:09:13 AM  [Apache] 	Attempting to stop Apache (PID: 6300)
+9:09:14 AM  [Apache] 	Status change detected: stopped
+9:09:14 AM  [Apache] 	Attempting to start Apache app...
+9:09:14 AM  [Apache] 	Status change detected: running
+9:10:19 AM  [Apache] 	Attempting to stop Apache (PID: 6168)
+9:10:19 AM  [Apache] 	Attempting to stop Apache (PID: 7888)
+9:10:19 AM  [Apache] 	Status change detected: stopped
+9:10:20 AM  [Apache] 	Attempting to start Apache app...
+9:10:20 AM  [Apache] 	Status change detected: running
+9:10:24 AM  [mysql] 	Attempting to stop MySQL (PID: 7468)
+9:10:25 AM  [mysql] 	Status change detected: stopped
+9:10:25 AM  [mysql] 	Attempting to start MySQL app...
+9:10:25 AM  [mysql] 	Status change detected: running
+9:13:04 AM  [main] 	Deinitializing Modules
+9:13:04 AM  [main] 	Deinitializing Control Panel
+
+2:13:48 PM  [main] 	Initializing Control Panel
+2:13:48 PM  [main] 	Windows Version: Windows 7 Professional SP1 32-bit
+2:13:48 PM  [main] 	XAMPP Version: 1.8.2
+2:13:48 PM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+2:13:48 PM  [main] 	You are not running with administrator rights! This will work for
+2:13:48 PM  [main] 	most application stuff but whenever you do something with services
+2:13:48 PM  [main] 	there will be a security dialogue or things will break! So think 
+2:13:48 PM  [main] 	about running this application with administrator rights!
+2:13:48 PM  [main] 	XAMPP Installation Directory: "e:\xampp\"
+2:13:48 PM  [main] 	Checking for prerequisites
+2:13:52 PM  [main] 	All prerequisites found
+2:13:52 PM  [main] 	Initializing Modules
+2:13:52 PM  [main] 	The FileZilla module is disabled
+2:13:52 PM  [main] 	The Mercury module is disabled
+2:13:52 PM  [main] 	The Tomcat module is disabled
+2:13:52 PM  [main] 	Starting Check-Timer
+2:13:52 PM  [main] 	Control Panel Ready
+2:13:54 PM  [Apache] 	Attempting to start Apache app...
+2:13:54 PM  [Apache] 	Status change detected: running
+2:13:54 PM  [mysql] 	Attempting to start MySQL app...
+2:13:55 PM  [mysql] 	Status change detected: running
+2:26:19 PM  [Apache] 	Attempting to stop Apache (PID: 1080)
+2:26:19 PM  [Apache] 	Attempting to stop Apache (PID: 5160)
+2:26:19 PM  [Apache] 	Status change detected: stopped
+2:26:24 PM  [mysql] 	Attempting to stop MySQL (PID: 1244)
+2:26:25 PM  [mysql] 	Status change detected: stopped
+2:28:17 PM  [Apache] 	Attempting to start Apache app...
+2:28:17 PM  [Apache] 	Status change detected: running
+2:28:18 PM  [mysql] 	Attempting to start MySQL app...
+2:28:18 PM  [mysql] 	Status change detected: running
+2:31:03 PM  [Apache] 	Attempting to stop Apache (PID: 1724)
+2:31:03 PM  [Apache] 	Attempting to stop Apache (PID: 5596)
+2:31:03 PM  [Apache] 	Status change detected: stopped
+2:31:04 PM  [Apache] 	Attempting to start Apache app...
+2:31:04 PM  [Apache] 	Status change detected: running
+2:53:45 PM  [Apache] 	Attempting to stop Apache (PID: 4960)
+2:53:45 PM  [Apache] 	Attempting to stop Apache (PID: 5676)
+2:53:46 PM  [Apache] 	Status change detected: stopped
+2:53:47 PM  [Apache] 	Attempting to start Apache app...
+2:53:47 PM  [Apache] 	Status change detected: running
+2:54:18 PM  [main] 	Deinitializing Modules
+2:54:18 PM  [main] 	Deinitializing Control Panel
+
+2:09:25 PM  [main] 	Initializing Control Panel
+2:09:25 PM  [main] 	Windows Version: Windows 7 Professional SP1 32-bit
+2:09:27 PM  [main] 	XAMPP Version: 1.8.2
+2:09:27 PM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+2:09:27 PM  [main] 	You are not running with administrator rights! This will work for
+2:09:27 PM  [main] 	most application stuff but whenever you do something with services
+2:09:27 PM  [main] 	there will be a security dialogue or things will break! So think 
+2:09:27 PM  [main] 	about running this application with administrator rights!
+2:09:27 PM  [main] 	XAMPP Installation Directory: "d:\xampp\"
+2:09:27 PM  [main] 	Checking for prerequisites
+2:17:32 PM  [main] 	All prerequisites found
+2:17:33 PM  [main] 	Initializing Modules
+2:17:35 PM  [main] 	The FileZilla module is disabled
+2:17:36 PM  [main] 	The Mercury module is disabled
+2:17:36 PM  [main] 	The Tomcat module is disabled
+2:17:36 PM  [main] 	Starting Check-Timer
+2:17:36 PM  [main] 	Control Panel Ready
+2:21:18 PM  [main] 	Deinitializing Modules
+2:21:19 PM  [main] 	Deinitializing Control Panel
+
+1:10:39 PM  [main] 	Initializing Control Panel
+1:10:40 PM  [main] 	Windows Version: Windows 7 Professional SP1 32-bit
+1:10:41 PM  [main] 	XAMPP Version: 1.8.2
+1:10:41 PM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+1:10:41 PM  [main] 	You are not running with administrator rights! This will work for
+1:10:41 PM  [main] 	most application stuff but whenever you do something with services
+1:10:41 PM  [main] 	there will be a security dialogue or things will break! So think 
+1:10:41 PM  [main] 	about running this application with administrator rights!
+1:10:41 PM  [main] 	XAMPP Installation Directory: "d:\xampp\"
+1:10:41 PM  [main] 	Checking for prerequisites
+1:13:08 PM  [main] 	All prerequisites found
+1:13:08 PM  [main] 	Initializing Modules
+1:13:08 PM  [main] 	The FileZilla module is disabled
+1:13:08 PM  [main] 	The Mercury module is disabled
+1:13:08 PM  [main] 	The Tomcat module is disabled
+1:13:08 PM  [main] 	Starting Check-Timer
+1:13:08 PM  [main] 	Control Panel Ready
+1:35:51 PM  [Apache] 	Attempting to start Apache app...
+1:36:04 PM  [mysql] 	Attempting to start MySQL app...
+1:36:14 PM  [Apache] 	Status change detected: running
+1:36:15 PM  [mysql] 	Status change detected: running
+9:17:40 PM  [mysql] 	Attempting to stop MySQL (PID: 2948)
+9:17:41 PM  [Apache] 	Attempting to stop Apache (PID: 5556)
+9:17:41 PM  [Apache] 	Attempting to stop Apache (PID: 3388)
+9:17:44 PM  [Apache] 	Status change detected: stopped
+9:17:44 PM  [mysql] 	Status change detected: stopped
+9:17:49 PM  [main] 	Deinitializing Modules
+9:17:49 PM  [main] 	Deinitializing Control Panel
+
+10:53:14 PM  [main] 	Initializing Control Panel
+10:53:14 PM  [main] 	Windows Version: Windows 7 Professional SP1 32-bit
+10:53:14 PM  [main] 	XAMPP Version: 1.8.2
+10:53:14 PM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+10:53:14 PM  [main] 	You are not running with administrator rights! This will work for
+10:53:14 PM  [main] 	most application stuff but whenever you do something with services
+10:53:14 PM  [main] 	there will be a security dialogue or things will break! So think 
+10:53:14 PM  [main] 	about running this application with administrator rights!
+10:53:14 PM  [main] 	XAMPP Installation Directory: "d:\xampp\"
+10:53:14 PM  [main] 	Checking for prerequisites
+10:53:19 PM  [main] 	All prerequisites found
+10:53:19 PM  [main] 	Initializing Modules
+10:53:19 PM  [main] 	The FileZilla module is disabled
+10:53:19 PM  [main] 	The Mercury module is disabled
+10:53:19 PM  [main] 	The Tomcat module is disabled
+10:53:19 PM  [main] 	Starting Check-Timer
+10:53:19 PM  [main] 	Control Panel Ready
+10:54:15 PM  [Apache] 	Attempting to start Apache app...
+10:54:18 PM  [Apache] 	Status change detected: running
+10:54:18 PM  [mysql] 	Attempting to start MySQL app...
+10:54:20 PM  [mysql] 	Status change detected: running
+10:54:34 PM  [Apache] 	Status change detected: stopped
+10:54:34 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+10:54:34 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+10:54:34 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+10:54:34 PM  [Apache] 	Press the Logs button to view error logs and check
+10:54:34 PM  [Apache] 	the Windows Event Viewer for more clues
+10:54:34 PM  [Apache] 	If you need more help, copy and post this
+10:54:34 PM  [Apache] 	entire log window on the forums
+10:54:52 PM  [Apache] 	Attempting to start Apache app...
+10:54:52 PM  [Apache] 	Status change detected: running
+11:21:02 PM  [main] 	Deinitializing Modules
+11:21:02 PM  [main] 	Deinitializing Control Panel
+
+11:40:25 AM  [main] 	Initializing Control Panel
+11:40:25 AM  [main] 	Windows Version: Windows 7 Professional SP1 32-bit
+11:40:25 AM  [main] 	XAMPP Version: 1.8.2
+11:40:25 AM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+11:40:25 AM  [main] 	You are not running with administrator rights! This will work for
+11:40:25 AM  [main] 	most application stuff but whenever you do something with services
+11:40:25 AM  [main] 	there will be a security dialogue or things will break! So think 
+11:40:25 AM  [main] 	about running this application with administrator rights!
+11:40:25 AM  [main] 	XAMPP Installation Directory: "e:\xampp\"
+11:40:25 AM  [main] 	Checking for prerequisites
+11:40:26 AM  [main] 	All prerequisites found
+11:40:26 AM  [main] 	Initializing Modules
+11:40:26 AM  [mysql] 	XAMPP MySQL is already running on port 3306
+11:40:26 AM  [main] 	The FileZilla module is disabled
+11:40:26 AM  [main] 	The Mercury module is disabled
+11:40:26 AM  [main] 	The Tomcat module is disabled
+11:40:26 AM  [main] 	Starting Check-Timer
+11:40:26 AM  [main] 	Control Panel Ready
+11:41:27 AM  [Apache] 	Attempting to start Apache app...
+11:41:27 AM  [Apache] 	Status change detected: running
+11:41:31 AM  [Apache] 	Status change detected: stopped
+11:41:31 AM  [Apache] 	Error: Apache shutdown unexpectedly.
+11:41:31 AM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+11:41:31 AM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+11:41:31 AM  [Apache] 	Press the Logs button to view error logs and check
+11:41:31 AM  [Apache] 	the Windows Event Viewer for more clues
+11:41:31 AM  [Apache] 	If you need more help, copy and post this
+11:41:31 AM  [Apache] 	entire log window on the forums
+11:41:41 AM  [Apache] 	Attempting to start Apache app...
+11:41:41 AM  [Apache] 	Status change detected: running
+11:41:42 AM  [Apache] 	Status change detected: stopped
+11:41:42 AM  [Apache] 	Error: Apache shutdown unexpectedly.
+11:41:42 AM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+11:41:42 AM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+11:41:42 AM  [Apache] 	Press the Logs button to view error logs and check
+11:41:42 AM  [Apache] 	the Windows Event Viewer for more clues
+11:41:42 AM  [Apache] 	If you need more help, copy and post this
+11:41:42 AM  [Apache] 	entire log window on the forums
+11:41:47 AM  [main] 	Deinitializing Modules
+11:41:47 AM  [main] 	Deinitializing Control Panel
+
+11:41:54 AM  [main] 	Initializing Control Panel
+11:41:54 AM  [main] 	Windows Version: Windows 7 Professional SP1 32-bit
+11:41:54 AM  [main] 	XAMPP Version: 1.8.2
+11:41:54 AM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+11:41:54 AM  [main] 	You are not running with administrator rights! This will work for
+11:41:54 AM  [main] 	most application stuff but whenever you do something with services
+11:41:54 AM  [main] 	there will be a security dialogue or things will break! So think 
+11:41:54 AM  [main] 	about running this application with administrator rights!
+11:41:54 AM  [main] 	XAMPP Installation Directory: "e:\xampp\"
+11:41:54 AM  [main] 	Checking for prerequisites
+11:41:54 AM  [main] 	All prerequisites found
+11:41:54 AM  [main] 	Initializing Modules
+11:41:54 AM  [mysql] 	XAMPP MySQL is already running on port 3306
+11:41:54 AM  [main] 	The FileZilla module is disabled
+11:41:54 AM  [main] 	The Mercury module is disabled
+11:41:54 AM  [main] 	The Tomcat module is disabled
+11:41:54 AM  [main] 	Starting Check-Timer
+11:41:54 AM  [main] 	Control Panel Ready
+11:41:57 AM  [mysql] 	Attempting to stop MySQL (PID: 4332)
+11:41:57 AM  [mysql] 	Status change detected: stopped
+11:41:58 AM  [Apache] 	Attempting to start Apache app...
+11:41:58 AM  [Apache] 	Status change detected: running
+11:41:58 AM  [Apache] 	Status change detected: stopped
+11:41:58 AM  [Apache] 	Error: Apache shutdown unexpectedly.
+11:41:58 AM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+11:41:58 AM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+11:41:58 AM  [Apache] 	Press the Logs button to view error logs and check
+11:41:58 AM  [Apache] 	the Windows Event Viewer for more clues
+11:41:58 AM  [Apache] 	If you need more help, copy and post this
+11:41:58 AM  [Apache] 	entire log window on the forums
+11:41:59 AM  [Apache] 	Attempting to start Apache app...
+11:42:00 AM  [Apache] 	Status change detected: running
+11:42:00 AM  [Apache] 	Status change detected: stopped
+11:42:00 AM  [Apache] 	Error: Apache shutdown unexpectedly.
+11:42:00 AM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+11:42:00 AM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+11:42:00 AM  [Apache] 	Press the Logs button to view error logs and check
+11:42:00 AM  [Apache] 	the Windows Event Viewer for more clues
+11:42:00 AM  [Apache] 	If you need more help, copy and post this
+11:42:00 AM  [Apache] 	entire log window on the forums
+11:42:05 AM  [main] 	Deinitializing Modules
+11:42:05 AM  [main] 	Deinitializing Control Panel
+
+11:53:06 AM  [main] 	Initializing Control Panel
+11:53:06 AM  [main] 	Windows Version: Windows 7 Professional SP1 32-bit
+11:53:06 AM  [main] 	XAMPP Version: 1.8.2
+11:53:06 AM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+11:53:06 AM  [main] 	You are not running with administrator rights! This will work for
+11:53:06 AM  [main] 	most application stuff but whenever you do something with services
+11:53:06 AM  [main] 	there will be a security dialogue or things will break! So think 
+11:53:06 AM  [main] 	about running this application with administrator rights!
+11:53:06 AM  [main] 	XAMPP Installation Directory: "e:\xampp\"
+11:53:06 AM  [main] 	Checking for prerequisites
+11:53:06 AM  [main] 	All prerequisites found
+11:53:06 AM  [main] 	Initializing Modules
+11:53:06 AM  [mysql] 	XAMPP MySQL is already running on port 3306
+11:53:06 AM  [main] 	The FileZilla module is disabled
+11:53:06 AM  [main] 	The Mercury module is disabled
+11:53:06 AM  [main] 	The Tomcat module is disabled
+11:53:06 AM  [main] 	Starting Check-Timer
+11:53:06 AM  [main] 	Control Panel Ready
+11:53:08 AM  [Apache] 	Attempting to start Apache app...
+11:53:08 AM  [Apache] 	Status change detected: running
+12:28:19 PM  [main] 	Deinitializing Modules
+12:28:19 PM  [main] 	Deinitializing Control Panel
+
+12:28:52 PM  [main] 	Initializing Control Panel
+12:28:52 PM  [main] 	Windows Version: Windows 7 Professional SP1 32-bit
+12:28:52 PM  [main] 	XAMPP Version: 1.8.2
+12:28:52 PM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+12:28:52 PM  [main] 	You are not running with administrator rights! This will work for
+12:28:52 PM  [main] 	most application stuff but whenever you do something with services
+12:28:52 PM  [main] 	there will be a security dialogue or things will break! So think 
+12:28:52 PM  [main] 	about running this application with administrator rights!
+12:28:52 PM  [main] 	XAMPP Installation Directory: "e:\xampp\"
+12:28:52 PM  [main] 	Checking for prerequisites
+12:28:53 PM  [main] 	All prerequisites found
+12:28:53 PM  [main] 	Initializing Modules
+12:28:53 PM  [Apache] 	XAMPP Apache is already running on port 80
+12:28:53 PM  [Apache] 	XAMPP Apache is already running on port 443
+12:28:53 PM  [mysql] 	XAMPP MySQL is already running on port 3306
+12:28:53 PM  [main] 	The FileZilla module is disabled
+12:28:53 PM  [main] 	The Mercury module is disabled
+12:28:53 PM  [main] 	The Tomcat module is disabled
+12:28:53 PM  [main] 	Starting Check-Timer
+12:28:53 PM  [main] 	Control Panel Ready
+12:31:44 PM  [mysql] 	Status change detected: stopped
+12:31:44 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+12:31:44 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+12:31:44 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+12:31:44 PM  [mysql] 	Press the Logs button to view error logs and check
+12:31:44 PM  [mysql] 	the Windows Event Viewer for more clues
+12:31:44 PM  [mysql] 	If you need more help, copy and post this
+12:31:44 PM  [mysql] 	entire log window on the forums
+12:31:46 PM  [mysql] 	Attempting to start MySQL app...
+12:31:46 PM  [mysql] 	Status change detected: running
+12:34:50 PM  [main] 	Deinitializing Modules
+12:34:50 PM  [main] 	Deinitializing Control Panel
+
+12:37:59 PM  [main] 	Initializing Control Panel
+12:37:59 PM  [main] 	Windows Version: Windows 7 Professional SP1 32-bit
+12:37:59 PM  [main] 	XAMPP Version: 1.8.2
+12:37:59 PM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+12:37:59 PM  [main] 	You are not running with administrator rights! This will work for
+12:37:59 PM  [main] 	most application stuff but whenever you do something with services
+12:37:59 PM  [main] 	there will be a security dialogue or things will break! So think 
+12:37:59 PM  [main] 	about running this application with administrator rights!
+12:37:59 PM  [main] 	XAMPP Installation Directory: "e:\xampp\"
+12:37:59 PM  [main] 	Checking for prerequisites
+12:37:59 PM  [main] 	All prerequisites found
+12:37:59 PM  [main] 	Initializing Modules
+12:37:59 PM  [main] 	The FileZilla module is disabled
+12:37:59 PM  [main] 	The Mercury module is disabled
+12:37:59 PM  [main] 	The Tomcat module is disabled
+12:37:59 PM  [main] 	Starting Check-Timer
+12:37:59 PM  [main] 	Control Panel Ready
+12:38:05 PM  [Apache] 	Attempting to start Apache app...
+12:38:06 PM  [Apache] 	Status change detected: running
+12:38:06 PM  [mysql] 	Attempting to start MySQL app...
+12:38:06 PM  [mysql] 	Status change detected: running
+2:29:07 PM  [main] 	Deinitializing Modules
+2:29:07 PM  [main] 	Deinitializing Control Panel
+
+10:55:42 PM  [main] 	Initializing Control Panel
+10:55:43 PM  [main] 	Windows Version: Windows XP SP3 32-bit
+10:55:44 PM  [main] 	XAMPP Version: 1.8.2
+10:55:44 PM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+10:55:44 PM  [main] 	Running with Administrator rights - good!
+10:55:44 PM  [main] 	XAMPP Installation Directory: "e:\xampp\"
+10:55:44 PM  [main] 	Checking for prerequisites
+10:55:44 PM  [main] 	All prerequisites found
+10:55:44 PM  [main] 	Initializing Modules
+10:55:44 PM  [main] 	The FileZilla module is disabled
+10:55:44 PM  [main] 	The Mercury module is disabled
+10:55:44 PM  [main] 	The Tomcat module is disabled
+10:55:44 PM  [main] 	Starting Check-Timer
+10:55:44 PM  [main] 	Control Panel Ready
+10:56:02 PM  [mysql] 	Attempting to start MySQL app...
+10:56:11 PM  [mysql] 	Status change detected: running
+10:56:41 PM  [Apache] 	Attempting to start Apache app...
+10:56:42 PM  [Apache] 	Status change detected: running
+11:23:47 PM  [main] 	Deinitializing Modules
+11:23:47 PM  [main] 	Deinitializing Control Panel
+
+8:52:12 PM  [main] 	Initializing Control Panel
+8:52:12 PM  [main] 	Windows Version: Windows XP SP3 32-bit
+8:52:13 PM  [main] 	XAMPP Version: 1.8.2
+8:52:13 PM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+8:52:13 PM  [main] 	Running with Administrator rights - good!
+8:52:13 PM  [main] 	XAMPP Installation Directory: "e:\xampp\"
+8:52:14 PM  [main] 	Checking for prerequisites
+8:52:14 PM  [main] 	All prerequisites found
+8:52:14 PM  [main] 	Initializing Modules
+8:52:14 PM  [main] 	The FileZilla module is disabled
+8:52:14 PM  [main] 	The Mercury module is disabled
+8:52:14 PM  [main] 	The Tomcat module is disabled
+8:52:14 PM  [main] 	Starting Check-Timer
+8:52:14 PM  [main] 	Control Panel Ready
+8:53:33 PM  [Apache] 	Attempting to start Apache app...
+8:53:34 PM  [Apache] 	Status change detected: running
+8:53:35 PM  [mysql] 	Attempting to start MySQL app...
+8:53:43 PM  [mysql] 	Status change detected: running
+10:49:13 PM  [Apache] 	Attempting to stop Apache (PID: 5932)
+10:49:13 PM  [Apache] 	Attempting to stop Apache (PID: 2968)
+10:49:14 PM  [mysql] 	Attempting to stop MySQL (PID: 4584)
+10:49:15 PM  [Apache] 	Status change detected: stopped
+10:49:15 PM  [mysql] 	Status change detected: stopped
+10:58:41 PM  [Apache] 	Status change detected: running
+10:58:41 PM  [mysql] 	Status change detected: running
+11:03:55 PM  [main] 	Deinitializing Modules
+11:03:55 PM  [main] 	Deinitializing Control Panel
+
+10:58:38 PM  [main] 	Initializing Control Panel
+10:58:38 PM  [main] 	Windows Version: Windows XP SP3 32-bit
+10:58:38 PM  [main] 	XAMPP Version: 1.8.2
+10:58:38 PM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+10:58:38 PM  [main] 	Running with Administrator rights - good!
+10:58:38 PM  [main] 	XAMPP Installation Directory: "e:\xampp\"
+10:58:38 PM  [main] 	Checking for prerequisites
+10:58:38 PM  [main] 	All prerequisites found
+10:58:38 PM  [main] 	Initializing Modules
+10:58:38 PM  [main] 	The FileZilla module is disabled
+10:58:38 PM  [main] 	The Mercury module is disabled
+10:58:38 PM  [main] 	The Tomcat module is disabled
+10:58:38 PM  [main] 	Starting Check-Timer
+10:58:38 PM  [main] 	Control Panel Ready
+10:58:40 PM  [Apache] 	Attempting to start Apache app...
+10:58:41 PM  [mysql] 	Attempting to start MySQL app...
+10:58:41 PM  [Apache] 	Status change detected: running
+10:58:41 PM  [mysql] 	Status change detected: running
+11:03:57 PM  [main] 	Deinitializing Modules
+11:03:57 PM  [main] 	Deinitializing Control Panel
+
+5:17:57 PM  [main] 	Initializing Control Panel
+5:17:57 PM  [main] 	Windows Version: Windows XP SP3 32-bit
+5:17:57 PM  [main] 	XAMPP Version: 1.8.2
+5:17:57 PM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+5:17:57 PM  [main] 	Running with Administrator rights - good!
+5:17:57 PM  [main] 	XAMPP Installation Directory: "e:\xampp\"
+5:17:57 PM  [main] 	Checking for prerequisites
+5:17:57 PM  [main] 	All prerequisites found
+5:17:57 PM  [main] 	Initializing Modules
+5:17:57 PM  [main] 	The FileZilla module is disabled
+5:17:57 PM  [main] 	The Mercury module is disabled
+5:17:57 PM  [main] 	The Tomcat module is disabled
+5:17:57 PM  [main] 	Starting Check-Timer
+5:17:57 PM  [main] 	Control Panel Ready
+5:18:05 PM  [mysql] 	Attempting to start MySQL app...
+5:18:07 PM  [Apache] 	Attempting to start Apache app...
+5:18:07 PM  [mysql] 	Status change detected: running
+5:18:08 PM  [Apache] 	Status change detected: running
+5:18:26 PM  [Apache] 	Status change detected: stopped
+5:18:26 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+5:18:26 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+5:18:26 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+5:18:26 PM  [Apache] 	Press the Logs button to view error logs and check
+5:18:26 PM  [Apache] 	the Windows Event Viewer for more clues
+5:18:26 PM  [Apache] 	If you need more help, copy and post this
+5:18:26 PM  [Apache] 	entire log window on the forums
+6:07:19 PM  [mysql] 	Status change detected: stopped
+6:07:19 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+6:07:19 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+6:07:19 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+6:07:19 PM  [mysql] 	Press the Logs button to view error logs and check
+6:07:19 PM  [mysql] 	the Windows Event Viewer for more clues
+6:07:19 PM  [mysql] 	If you need more help, copy and post this
+6:07:19 PM  [mysql] 	entire log window on the forums
+6:07:20 PM  [mysql] 	Status change detected: running
+6:07:24 PM  [mysql] 	Status change detected: stopped
+6:07:24 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+6:07:24 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+6:07:24 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+6:07:24 PM  [mysql] 	Press the Logs button to view error logs and check
+6:07:24 PM  [mysql] 	the Windows Event Viewer for more clues
+6:07:24 PM  [mysql] 	If you need more help, copy and post this
+6:07:24 PM  [mysql] 	entire log window on the forums
+6:07:26 PM  [mysql] 	Status change detected: running
+6:07:26 PM  [mysql] 	Status change detected: stopped
+6:07:26 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+6:07:26 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+6:07:26 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+6:07:26 PM  [mysql] 	Press the Logs button to view error logs and check
+6:07:26 PM  [mysql] 	the Windows Event Viewer for more clues
+6:07:26 PM  [mysql] 	If you need more help, copy and post this
+6:07:26 PM  [mysql] 	entire log window on the forums
+6:07:27 PM  [mysql] 	Status change detected: running
+6:07:28 PM  [mysql] 	Status change detected: stopped
+6:07:28 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+6:07:28 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+6:07:28 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+6:07:28 PM  [mysql] 	Press the Logs button to view error logs and check
+6:07:28 PM  [mysql] 	the Windows Event Viewer for more clues
+6:07:28 PM  [mysql] 	If you need more help, copy and post this
+6:07:28 PM  [mysql] 	entire log window on the forums
+6:07:29 PM  [mysql] 	Status change detected: running
+6:08:22 PM  [mysql] 	Status change detected: stopped
+6:08:22 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+6:08:22 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+6:08:22 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+6:08:22 PM  [mysql] 	Press the Logs button to view error logs and check
+6:08:22 PM  [mysql] 	the Windows Event Viewer for more clues
+6:08:22 PM  [mysql] 	If you need more help, copy and post this
+6:08:22 PM  [mysql] 	entire log window on the forums
+6:08:26 PM  [mysql] 	Status change detected: running
+6:08:26 PM  [mysql] 	Status change detected: stopped
+6:08:26 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+6:08:26 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+6:08:26 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+6:08:26 PM  [mysql] 	Press the Logs button to view error logs and check
+6:08:26 PM  [mysql] 	the Windows Event Viewer for more clues
+6:08:26 PM  [mysql] 	If you need more help, copy and post this
+6:08:26 PM  [mysql] 	entire log window on the forums
+6:08:28 PM  [mysql] 	Status change detected: running
+7:10:55 PM  [mysql] 	Attempting to stop MySQL (PID: 3296)
+7:10:55 PM  [mysql] 	Status change detected: stopped
+7:45:55 PM  [mysql] 	Attempting to start MySQL app...
+7:46:10 PM  [Apache] 	Attempting to start Apache app...
+7:46:11 PM  [Apache] 	Attempting to start Apache app...
+7:46:11 PM  [mysql] 	Status change detected: running
+7:46:11 PM  [Apache] 	Status change detected: running
+7:46:23 PM  [Apache] 	Status change detected: stopped
+7:46:23 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+7:46:23 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+7:46:23 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+7:46:23 PM  [Apache] 	Press the Logs button to view error logs and check
+7:46:23 PM  [Apache] 	the Windows Event Viewer for more clues
+7:46:23 PM  [Apache] 	If you need more help, copy and post this
+7:46:23 PM  [Apache] 	entire log window on the forums
+7:46:28 PM  [Apache] 	Attempting to start Apache app...
+7:46:28 PM  [Apache] 	Status change detected: running
+7:46:31 PM  [Apache] 	Status change detected: stopped
+7:46:31 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+7:46:31 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+7:46:31 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+7:46:31 PM  [Apache] 	Press the Logs button to view error logs and check
+7:46:31 PM  [Apache] 	the Windows Event Viewer for more clues
+7:46:31 PM  [Apache] 	If you need more help, copy and post this
+7:46:31 PM  [Apache] 	entire log window on the forums
+7:47:56 PM  [Apache] 	Attempting to start Apache app...
+7:47:56 PM  [Apache] 	Status change detected: running
+7:52:45 PM  [Apache] 	Attempting to stop Apache (PID: 5996)
+7:52:45 PM  [Apache] 	Attempting to stop Apache (PID: 3620)
+7:52:47 PM  [Apache] 	Status change detected: stopped
+7:52:51 PM  [Apache] 	Attempting to start Apache app...
+7:52:52 PM  [Apache] 	Status change detected: running
+7:55:19 PM  [mysql] 	Attempting to stop MySQL (PID: 4756)
+7:55:19 PM  [mysql] 	Status change detected: stopped
+7:55:44 PM  [mysql] 	Attempting to start MySQL app...
+7:55:45 PM  [mysql] 	Status change detected: running
+8:12:53 PM  [main] 	Deinitializing Modules
+8:12:53 PM  [main] 	Deinitializing Control Panel
+
+6:27:25 PM  [main] 	Initializing Control Panel
+6:27:25 PM  [main] 	Windows Version: Windows XP SP3 32-bit
+6:27:25 PM  [main] 	XAMPP Version: 1.8.2
+6:27:25 PM  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+6:27:25 PM  [main] 	Running with Administrator rights - good!
+6:27:25 PM  [main] 	XAMPP Installation Directory: "e:\xampp\"
+6:27:26 PM  [main] 	Checking for prerequisites
+6:27:26 PM  [main] 	All prerequisites found
+6:27:26 PM  [main] 	Initializing Modules
+6:27:26 PM  [main] 	The FileZilla module is disabled
+6:27:26 PM  [main] 	The Mercury module is disabled
+6:27:26 PM  [main] 	The Tomcat module is disabled
+6:27:26 PM  [main] 	Starting Check-Timer
+6:27:26 PM  [main] 	Control Panel Ready
+6:27:31 PM  [Apache] 	Attempting to start Apache app...
+6:27:31 PM  [Apache] 	Status change detected: running
+6:27:32 PM  [mysql] 	Attempting to start MySQL app...
+6:27:35 PM  [mysql] 	Status change detected: running
+9:46:05 PM  [Apache] 	Status change detected: stopped
+9:46:06 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+9:46:07 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+9:46:07 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+9:46:07 PM  [Apache] 	Press the Logs button to view error logs and check
+9:46:07 PM  [Apache] 	the Windows Event Viewer for more clues
+9:46:07 PM  [Apache] 	If you need more help, copy and post this
+9:46:07 PM  [Apache] 	entire log window on the forums
+9:46:08 PM  [mysql] 	Status change detected: stopped
+9:46:08 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+9:46:08 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+9:46:08 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+9:46:08 PM  [mysql] 	Press the Logs button to view error logs and check
+9:46:08 PM  [mysql] 	the Windows Event Viewer for more clues
+9:46:08 PM  [mysql] 	If you need more help, copy and post this
+9:46:08 PM  [mysql] 	entire log window on the forums
+9:46:08 PM  [Apache] 	Status change detected: running
+9:46:08 PM  [mysql] 	Status change detected: running
+9:56:06 PM  [Apache] 	Status change detected: stopped
+9:56:07 PM  [Apache] 	Error: Apache shutdown unexpectedly.
+9:56:07 PM  [Apache] 	This may be due to a blocked port, missing dependencies, 
+9:56:07 PM  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+9:56:07 PM  [Apache] 	Press the Logs button to view error logs and check
+9:56:07 PM  [Apache] 	the Windows Event Viewer for more clues
+9:56:07 PM  [Apache] 	If you need more help, copy and post this
+9:56:07 PM  [Apache] 	entire log window on the forums
+9:56:08 PM  [mysql] 	Status change detected: stopped
+9:56:08 PM  [mysql] 	Error: MySQL shutdown unexpectedly.
+9:56:08 PM  [mysql] 	This may be due to a blocked port, missing dependencies, 
+9:56:08 PM  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+9:56:08 PM  [mysql] 	Press the Logs button to view error logs and check
+9:56:08 PM  [mysql] 	the Windows Event Viewer for more clues
+9:56:08 PM  [mysql] 	If you need more help, copy and post this
+9:56:08 PM  [mysql] 	entire log window on the forums
+9:56:08 PM  [Apache] 	Status change detected: running
+9:56:08 PM  [mysql] 	Status change detected: running
+10:46:36 PM  [mysql] 	Attempting to stop MySQL (PID: 2928)
+10:46:36 PM  [mysql] 	Status change detected: stopped
+10:46:38 PM  [Apache] 	Attempting to stop Apache (PID: 1004)
+10:46:38 PM  [Apache] 	Attempting to stop Apache (PID: 5584)
+10:46:39 PM  [Apache] 	Status change detected: stopped
+10:50:16 PM  [main] 	Deinitializing Modules
+10:50:16 PM  [main] 	Deinitializing Control Panel
+

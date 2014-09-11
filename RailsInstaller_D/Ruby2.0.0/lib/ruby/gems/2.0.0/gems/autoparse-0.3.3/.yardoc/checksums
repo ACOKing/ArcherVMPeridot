@@ -1,0 +1,5 @@
+lib/autoparse.rb 4215023368684bf8259aa0a5c19aac457e98ef60
+lib/autoparse/version.rb e0111cdc3dd4fd2a321b1012176ebcbc4e80f94c
+lib/compat/multi_json.rb dd44600b2e6018c408ce1dd15910afa1c48efe78
+lib/autoparse/instance.rb 698a7b83b2b360e1140b32bcecc4ac9e28fedda5
+lib/autoparse/inflection.rb 20f7679ea8e88a51ef304ef2987fce00b079c0c1

@@ -1,0 +1,40 @@
+{
+  "folders": [
+    {
+      "retained": "4BFA00F8CC9D57CA5A824A9821FA206A:dokuwiki",
+      "path": "/dokuwiki"
+    },
+    {
+      "retained": "9765331BC393BF682B42AB8687DD103A:drupal",
+      "path": "/drupal"
+    },
+    {
+      "retained": "BDD3F1438723EF1E95231E10EC2AA86D:joomla",
+      "path": "/joomla"
+    },
+    {
+      "retained": "99D61304522A9FCCADDBF175A471E923:mediawiki",
+      "path": "/mediawiki"
+    },
+    {
+      "retained": "7F1AD4C8BFFD3863A27122A20C0112F2:moodle",
+      "path": "/moodle"
+    },
+    {
+      "retained": "F6681C4A7DA2BD722C436AD10E3145A0:osclass",
+      "path": "/osclass"
+    },
+    {
+      "retained": "5B070F577FABF05A8479153A752FC560:owncloud",
+      "path": "/owncloud"
+    },
+    {
+      "retained": "9C9BC1503BCD58DC26E8435B72267B0E:phpbb",
+      "path": "/phpbb"
+    },
+    {
+      "retained": "F025C6CE9A37B3A0E770C7EBD860E578:wordpress",
+      "path": "/wordpress"
+    }
+  ]
+}

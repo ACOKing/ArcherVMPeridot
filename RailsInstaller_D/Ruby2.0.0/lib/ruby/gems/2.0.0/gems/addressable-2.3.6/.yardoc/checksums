@@ -1,0 +1,6 @@
+lib/addressable/uri.rb 6cdcbcc15a3d9e3d7453c8ff3530d6eaaecb63d1
+lib/addressable/idna.rb 9d467b7e0783cfd10aaf02b080ca04fbd44f4311
+lib/addressable/version.rb 6faed9dd106c74d018bd5aef09c88d6c9a23ede7
+lib/addressable/template.rb c550db038357ff89663ae5491b9816b4c23c4c34
+lib/addressable/idna/pure.rb db9df649f843647f71bb395f67f67fcf64529a22
+lib/addressable/idna/native.rb 6f72dab0c2eb8c620099aae8cec9e929367bace4

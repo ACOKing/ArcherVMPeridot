@@ -1,0 +1,7 @@
+lib/sdoc.rb dcec428efc697209c917ce0831a3326e59689baa
+lib/sdoc/merge.rb 987b2df5718b6d4a6cef9747598334895b40b9f4
+lib/sdoc/github.rb 565aa9f65dbc5227b1b93ccef4acbfc7d4daccac
+lib/sdoc/helpers.rb 4224323757df4d5af0e32114859d5a40514f4433
+lib/rdoc/discover.rb b8cedc6461660210af17c3328f008f48d1c49d26
+lib/sdoc/generator.rb a34c9674f4f94f71bdaf487809fc3fd02303dd61
+lib/sdoc/templatable.rb 2c99467fc57764ac5860c20b8e63e72f32838e69

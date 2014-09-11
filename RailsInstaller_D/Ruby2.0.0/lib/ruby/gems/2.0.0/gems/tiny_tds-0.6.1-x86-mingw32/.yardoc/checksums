@@ -1,0 +1,8 @@
+lib/tiny_tds.rb 64dc85cfbf3322185a37d4e518eae239fb1421f3
+lib/tiny_tds/error.rb 69a240cd9c53ba6c4cea45ebcbe6000004644559
+lib/tiny_tds/client.rb d8e479a910f6dd53891871b7291867151eaedcf1
+lib/tiny_tds/result.rb 7248485f20590400e1dcb35e89d5e3e91280b374
+lib/tiny_tds/version.rb 2a6c45448d97ec7b96fa396cdb9801caf5ec559e
+ext/tiny_tds/client.c a4c8d2fae7cc6b4c3945916e13873a39b9c72b60
+ext/tiny_tds/result.c 2505363682f50f8e3bbfbcf98584e067d673ac75
+ext/tiny_tds/tiny_tds_ext.c 19327ef904a54c99e53ccd29073730f9075ddf5b

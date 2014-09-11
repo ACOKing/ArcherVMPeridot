@@ -1,0 +1,6 @@
+lib/hike.rb 9020f935bdbedc6fea614012cf034297503a0d62
+lib/hike/paths.rb d36526206c0cb275d1ef087ca1854ac870915811
+lib/hike/index.rb cc8bac2bcfc164c538822a22dd08e0c77a324578
+lib/hike/trail.rb 6a6cb9837fb624acd8a4ed37353a712fed048037
+lib/hike/extensions.rb 5d7e4871b2fa1172863a6df23fefca61623d0b44
+lib/hike/normalized_array.rb 7e0b328e34cb5187396956980e76230c8173b36b

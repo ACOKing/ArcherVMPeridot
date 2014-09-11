@@ -1,0 +1,7 @@
+lib/jquery/rails.rb f9651b34959b4a6d60c02616beb9745b247bf177
+lib/jquery-rails.rb e532e44a4eaacf5bef10f1cb71bd523814db8ee6
+lib/jquery/rails/engine.rb 4ef0b0e02d4a1865b55f29f83c49bcfde5d52079
+lib/jquery/rails/railtie.rb 6e8809a6a367254eb318fca0f36d61d2d4f166ba
+lib/jquery/assert_select.rb a2a5b0e52d3095e81c83cd2e30d3cd0faba37b76
+lib/jquery/rails/version.rb a93bad16530cbe74b6bb1da7af12c5cb2d03d2ec
+lib/generators/jquery/install/install_generator.rb c0b1916b2ba821225254b43d9dbae76a16c3b55b

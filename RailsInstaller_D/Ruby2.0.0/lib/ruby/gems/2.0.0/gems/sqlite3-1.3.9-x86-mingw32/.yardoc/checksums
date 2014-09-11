@@ -1,0 +1,15 @@
+lib/sqlite3.rb 942dd2e4e92447370fe320786414ffa05d69da27
+lib/sqlite3/value.rb a79be45a35e2468486082b3f1d90b45f3fcd9ddf
+lib/sqlite3/errors.rb f070fdce5dd86982de3c997fdbe5e0cba4d79ac4
+lib/sqlite3/pragmas.rb 74e74008642f2d89836c33bcef74825563806e3b
+lib/sqlite3/version.rb ddf4b3e4a503886fecf704ea7081feea920b70cc
+lib/sqlite3/database.rb 058c41dd5ff628806624bd9d5bd0373bae479ffc
+lib/sqlite3/statement.rb 1b3cbaacbb57143b0785af987befb944b90c1234
+lib/sqlite3/constants.rb f41e25f3360f58b8562515d0df2b197ddfa63ac1
+lib/sqlite3/resultset.rb a0fa0f37c1e4e32c65a78fbf80884fc390a943bf
+lib/sqlite3/translator.rb 5f4bd19fbf4e36d9ef524aa1bcc5483447db3e32
+ext/sqlite3/backup.c 6ec3a324906c5f49a2a3b4d28580149fc245bd3c
+ext/sqlite3/sqlite3.c 9d9bb9a2d4970beda591d4aa44e93e3662f58574
+ext/sqlite3/database.c 514e9aebaa8ae3840a7542c68897d93f1bfe9d21
+ext/sqlite3/exception.c 9099e7861b1842eed7beb133f775df617ea85e6a
+ext/sqlite3/statement.c bbc3075260662dc8e4c8a8104ba99e6bdeaa235f

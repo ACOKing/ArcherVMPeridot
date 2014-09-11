@@ -1,0 +1,5 @@
+lib/coffee-rails.rb 01b664eef3a0e22c1cbcb8e501b99449b091ba8d
+lib/coffee/rails/engine.rb 8ec288578135ec8e9f5144e0a24c014922842c6d
+lib/coffee/rails/version.rb f41e8e70032d9e673262594ef4c65519ad59c601
+lib/coffee/rails/template_handler.rb 11bf158257890bcc4a6cbdaa36f969dc2990da26
+lib/rails/generators/coffee/assets/assets_generator.rb 669273f914112fbd10db0244e7d93f990ac40ba0

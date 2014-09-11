@@ -1,0 +1,3 @@
+lib/uuidtools.rb 53dac5fdb5533acd9fd90eb7cb7844ff5299fd06
+lib/uuidtools/version.rb 3d965d960e0ea128060b4847dd5a68dc4acaf38f
+lib/compat/securerandom.rb 5dde85f44444c4ed27ba9b13e2beb252f3415af4

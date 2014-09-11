@@ -1,0 +1,17 @@
+lib/signet.rb da694cffb44e7ece293a00a6dd6a88dbaa20c066
+lib/signet/errors.rb d2128b1ca71a3fdddd1d4184573e1e91541ec76a
+lib/compat/base64.rb 774401ee3cb0cc8f3195d1dfe44c25ed458fecfd
+lib/signet/oauth_1.rb fdf02587b0b278e0737a603c4fbbfb0379667101
+lib/signet/oauth_2.rb fd6dfd8ff83cba92bd04cec3f4102d15de26aa51
+lib/signet/version.rb 90978599c606da1ca223c04cd742cf00e18c947d
+lib/signet/ssl_config.rb c0336234e1c66eb7ff57ce0838158f5c3141bae3
+lib/compat/multi_json.rb dd44600b2e6018c408ce1dd15910afa1c48efe78
+lib/compat/digest/hmac.rb c648427ee2d7313c3e118486afc137816650e74c
+lib/compat/securerandom.rb 5dde85f44444c4ed27ba9b13e2beb252f3415af4
+lib/signet/oauth_1/server.rb 4e4b6ce941af1bfe204b946318e155752a266da9
+lib/signet/oauth_1/client.rb 76862d7f1c9c933f3deead64fbb51005fbff4ed7
+lib/signet/oauth_2/client.rb 99a7ad0636d8dfd2c88f5fa1ea94fe2d387bee6b
+lib/signet/oauth_1/credential.rb 9647345d6dbc50b9fb6e0cea13645ba626f52b2b
+lib/signet/oauth_1/signature_methods/rsa_sha1.rb c5d613b499f9072af955451312275bc30391a1ff
+lib/signet/oauth_1/signature_methods/hmac_sha1.rb f37f14af51cb88c34fcfa6b765afd1a3d491d845
+lib/signet/oauth_1/signature_methods/plaintext.rb 9b98e1e2e5fec116fa7daefb768ef9718cf461f9

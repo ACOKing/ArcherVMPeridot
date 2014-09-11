@@ -1,0 +1,9 @@
+lib/hoe/minitest.rb 2671234365c0c51934284681401404d26cbfdef0
+lib/minitest/mock.rb fa4f630a731b1eb9a51aa75a5b11fd95b80ea819
+lib/minitest/unit.rb 507224ace3f6fbaa9f9ed30a69d5814b2cafcdbf
+lib/minitest/hell.rb a42b48e9e9c7fbeb05e1f2498408bf41109421e8
+lib/minitest/spec.rb 0af012aaddacae7309e5dbfcc4aed772dedd57c7
+lib/minitest/pride.rb 2b9d0b9e3049d3160b7c753d4891ece80011846c
+lib/minitest/autorun.rb cb09e2c6c2b7da7617421b4609a138ed983caabf
+lib/minitest/benchmark.rb 93cb47ff9faa86eb7b4ef720e622905ed645a8cd
+lib/minitest/parallel_each.rb e35e4dd3083aedb96c50d3917c5a2318a903d0b2

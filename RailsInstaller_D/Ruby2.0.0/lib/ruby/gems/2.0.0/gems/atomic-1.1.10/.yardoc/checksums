@@ -1,0 +1,10 @@
+lib/atomic.rb 8d3437970f79ff07edbd86d130e40389045d5be7
+lib/atomic/rbx.rb 7fc008df96b8c059ed6e97ebcc3993b0fd801be7
+lib/atomic/ruby.rb 0bb7e9224615d483b4a96ae3903a75f37f8eeae0
+lib/atomic/jruby.rb 26ce8b150ec298c1de49cccef22a652b73f4d28d
+lib/atomic/fallback.rb 97cd756d24e5cd78b820f17b4f466fdb5e2ac9fc
+lib/atomic/direct_update.rb 8164cb8fa168b7aec3e125daa1588292f13deade
+lib/atomic/delegated_update.rb 965a90fbbf9f038ff4c0d2b55c665ef3d222e599
+lib/atomic/numeric_cas_wrapper.rb 484dddc636bc962af494b98d0054817dea4da917
+lib/atomic/concurrent_update_error.rb d5eb8b37609c096849f75d81669b4bb629ec96a8
+ext/atomic_reference.c 659aca4fc6fe5c44d0dbcad62b39c18ea7c9ce0e

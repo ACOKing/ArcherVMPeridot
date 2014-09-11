@@ -1,0 +1,6 @@
+lib/sprockets/rails.rb fa6ebfbae3571d1a5bee65d5d2bd9336356d990d
+lib/sprockets/railtie.rb 05d38d75c5aebec9110e131cbf2f98c48a256987
+lib/sprockets/rails/task.rb 9fb2225814faca26e8c0ca821af349617a2aabda
+lib/sprockets/rails/helper.rb 4cf65fe8aff67ab050f64047c780be943c881d37
+lib/sprockets/rails/legacy_asset_url_helper.rb b02485b2bcd67a59485466e3a84a51b0b2e31fd7
+lib/sprockets/rails/legacy_asset_tag_helper.rb c5db95e1aaa1192d9df28c5ce625fa711eb8f06e

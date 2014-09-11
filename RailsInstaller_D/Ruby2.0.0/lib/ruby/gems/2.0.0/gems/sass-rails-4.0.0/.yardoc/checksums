@@ -1,0 +1,12 @@
+lib/sass-rails.rb 93badbb6cfb9fb65a59f7a8b20786224e779d4c7
+lib/sass/rails.rb a96cfdd72a6ae42636ecf5f2dfd90d321c20f96e
+lib/sass/rails/logger.rb 077afd5c057ebe4cce98019aaa5d639b89ae275f
+lib/sass/rails/railtie.rb e913a7d85772b5bd4978a2445d661e5d3c909347
+lib/sass/rails/version.rb 8cc4e26daae9d2785bb4466dac9939a87a3715c6
+lib/sass/rails/helpers.rb d03d8f90d7b42ef386bcb1219c0d893b0b767ead
+lib/sass/rails/importer.rb 7e630a6d8e747b3c20bafaa6b29b0eb51a4ad6b0
+lib/rails/generators/sass_scaffold.rb 0cb480b4ea520010ff9d4ffee0ed1ef54a0ed4bc
+lib/rails/generators/scss/assets/assets_generator.rb 1b114a06102638ce997e286486221534b6238836
+lib/rails/generators/sass/assets/assets_generator.rb 03522fdd329536b74e219a8567fd8e050fc973fa
+lib/rails/generators/sass/scaffold/scaffold_generator.rb 53adfabd5aa86cd6e0c150873be5894398336523
+lib/rails/generators/scss/scaffold/scaffold_generator.rb d8bd79faf6257208d298b847ddbe582294714341

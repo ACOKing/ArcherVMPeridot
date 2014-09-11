@@ -1,0 +1,5 @@
+lib/sinatra.rb c5bb32f6c96174261cd4d02e28ba86d3084f05f0
+lib/sinatra/base.rb c617c1c8e42af4db7858ddf4f8888edfce52e922
+lib/sinatra/main.rb 248f6461f43fd582c3c20ee07af122650b6b71a4
+lib/sinatra/version.rb c1cd4d6f05b7f12f80be0fd2278a9d8eeac2d807
+lib/sinatra/show_exceptions.rb ddb70fad8d88e67434a5bab60e6160e2ecf7aa60

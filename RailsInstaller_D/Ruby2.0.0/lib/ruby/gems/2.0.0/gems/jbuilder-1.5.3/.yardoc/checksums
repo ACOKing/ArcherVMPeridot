@@ -1,0 +1,6 @@
+lib/jbuilder.rb fb0be53553a18da1c9e5a471edea9f6421e271e7
+lib/jbuilder/railtie.rb e48417b2a0abeb5f550cf9a75045720f0c3db272
+lib/jbuilder/jbuilder_template.rb 5e5b7e7fe15bbeacf7d7898e74bdd5fe59eb3bfb
+lib/generators/rails/jbuilder_generator.rb 9e7593746f43e9cfc34f26671f1102db966d2197
+lib/generators/rails/templates/controller.rb 7170b65a87f2e6633eee56005c0d0ffe16fefcfe
+lib/generators/rails/scaffold_controller_generator.rb d39b19820dc4e1a7213d703be8c23848e76d1557
